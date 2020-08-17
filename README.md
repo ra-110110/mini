@@ -1,1 +1,1 @@
-# mini-calculator
+# mini
